@@ -1,0 +1,24 @@
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Java ###
+target/
+.idea
+
+### python ###
+.pytest_cache
+__pycache__
+
+### poetry ###
+poetry.lock
+
+### env ###
+.conda
+.venv
+.env
+
+metadata/
+ipynb/
