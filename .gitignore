@@ -21,4 +21,3 @@ poetry.lock
 .env
 
 metadata/
-ipynb/
